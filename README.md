@@ -1,5 +1,6 @@
 # Dataset
-The USE datasets includes MultiWOZ and SGD, two widely used datasets for task-oriented dialogue systems. 
+The USE datasets include MultiWOZ and SGD, two widely used datasets for task-oriented dialogue systems. 
+
 This dataset has been relabeled using GPT-4o and follows the format of the datasets published by the USDA(https://github.com/dengyang17/USDA).
 
 

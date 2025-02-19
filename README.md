@@ -1,8 +1,8 @@
 # Dataset
-Dataset MultiWoz and SGD Dialogue-Level USE relabeled using model GPT4o.
+The USE datasets includes MultiWOZ and SGD, two widely used datasets for task-oriented dialogue systems. 
+This dataset has been relabeled using GPT-4o and follows the format of the datasets published by the USDA(https://github.com/dengyang17/USDA).
 
-The original version of the datasets is obtained from USDA(https://github.com/dengyang17/USDA).
 
 
 # Reference:
-Weiwei Sun, Shuo Zhang, Krisztian Balog, Zhaochun Ren, Pengjie Ren, Zhumin Chen, Maarten de Rijke. Simulating User Satisfaction for the Evaluation of Task-oriented Dialogue Systems. In SIGIR 2021
+Yang Deng, Wenxuan Zhang, Wai Lam, Hong Cheng, and Helen Meng. 2022. User Satisfaction Estimation with Sequential Dialogue Act Modeling in Goal-oriented Conversational Systems. In WWW ’22: The Web Conference 2022.
